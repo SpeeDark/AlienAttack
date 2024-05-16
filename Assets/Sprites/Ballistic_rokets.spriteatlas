@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ballistic_rokets
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 256
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 256
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 25
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f913dd6eb52a78d459d0d1b1bfe0224a, type: 3}
+    - {fileID: 2800000, guid: ffa0b4bddba6acf429ed81c569ea27cc, type: 3}
+    - {fileID: 2800000, guid: 0d55c7dae585cc64fa444d201ab4e629, type: 3}
+    - {fileID: 2800000, guid: 375a82a9d0899bc48ad9165a16611e4a, type: 3}
+    - {fileID: 2800000, guid: ea900779e8901a140b9f14a0790ddef4, type: 3}
+    - {fileID: 2800000, guid: abfe2d1b7771f6743a06b64b61a96447, type: 3}
+    - {fileID: 2800000, guid: 4f8192e06d63ff541846eb91d0774670, type: 3}
+    - {fileID: 2800000, guid: 37d7650cbc7c0564fa3aac5e08bd9e7d, type: 3}
+    - {fileID: 2800000, guid: 263cdaefc13c2744f9107630f7c1d698, type: 3}
+    - {fileID: 2800000, guid: 1cf7e702c41e1be4eac13642aeed18d3, type: 3}
+    - {fileID: 2800000, guid: fd31b5934362f6c448d0bb65bd94b52c, type: 3}
+    - {fileID: 2800000, guid: acab8950e6092b84386522bb852ffd49, type: 3}
+    - {fileID: 2800000, guid: 1936796bd2b5e444ebea34f840a1e161, type: 3}
+    - {fileID: 2800000, guid: 643f6712d34bc5d4c9b139d569c1cdeb, type: 3}
+    - {fileID: 2800000, guid: a42fad8b469802d4380a75377cccf4f4, type: 3}
+    - {fileID: 2800000, guid: 70faf1e277b669543870268b7d068ef9, type: 3}
+    - {fileID: 2800000, guid: 0cead77cbc94e064d9e4ffe2abaa74b9, type: 3}
+    - {fileID: 2800000, guid: da7fd33d33d790442a8da0d401175def, type: 3}
+    - {fileID: 2800000, guid: 44ad34e49259e454496eafe0d6c1801c, type: 3}
+    - {fileID: 2800000, guid: 6af19e9276349fd418e9ce843a42ba7e, type: 3}
+    - {fileID: 2800000, guid: d13c3de1c7a8f154fbe69f03adddada9, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: acab8950e6092b84386522bb852ffd49, type: 3}
+  - {fileID: 21300000, guid: 4f8192e06d63ff541846eb91d0774670, type: 3}
+  - {fileID: 21300000, guid: d13c3de1c7a8f154fbe69f03adddada9, type: 3}
+  - {fileID: 21300000, guid: 1cf7e702c41e1be4eac13642aeed18d3, type: 3}
+  - {fileID: 21300000, guid: 643f6712d34bc5d4c9b139d569c1cdeb, type: 3}
+  - {fileID: 21300000, guid: 6af19e9276349fd418e9ce843a42ba7e, type: 3}
+  - {fileID: 21300000, guid: 70faf1e277b669543870268b7d068ef9, type: 3}
+  - {fileID: 21300000, guid: fd31b5934362f6c448d0bb65bd94b52c, type: 3}
+  - {fileID: 21300000, guid: 44ad34e49259e454496eafe0d6c1801c, type: 3}
+  - {fileID: 21300000, guid: ea900779e8901a140b9f14a0790ddef4, type: 3}
+  - {fileID: 21300000, guid: 375a82a9d0899bc48ad9165a16611e4a, type: 3}
+  - {fileID: 21300000, guid: 0d55c7dae585cc64fa444d201ab4e629, type: 3}
+  - {fileID: 21300000, guid: abfe2d1b7771f6743a06b64b61a96447, type: 3}
+  - {fileID: 21300000, guid: 1936796bd2b5e444ebea34f840a1e161, type: 3}
+  - {fileID: 21300000, guid: a42fad8b469802d4380a75377cccf4f4, type: 3}
+  - {fileID: 21300000, guid: 37d7650cbc7c0564fa3aac5e08bd9e7d, type: 3}
+  - {fileID: 21300000, guid: 0cead77cbc94e064d9e4ffe2abaa74b9, type: 3}
+  - {fileID: 21300000, guid: da7fd33d33d790442a8da0d401175def, type: 3}
+  - {fileID: 21300000, guid: ffa0b4bddba6acf429ed81c569ea27cc, type: 3}
+  - {fileID: 21300000, guid: f913dd6eb52a78d459d0d1b1bfe0224a, type: 3}
+  - {fileID: 21300000, guid: 263cdaefc13c2744f9107630f7c1d698, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ballistic_rocket_12
+  - ballistic_rocket_7
+  - ballistic_rocket_21
+  - ballistic_rocket_10
+  - ballistic_rocket_14
+  - ballistic_rocket_20
+  - ballistic_rocket_16
+  - ballistic_rocket_11
+  - ballistic_rocket_19
+  - ballistic_rocket_5
+  - ballistic_rocket_4
+  - ballistic_rocket_3
+  - ballistic_rocket_6
+  - ballistic_rocket_13
+  - ballistic_rocket_15
+  - ballistic_rocket_8
+  - ballistic_rocket_17
+  - ballistic_rocket_18
+  - ballistic_rocket_2
+  - ballistic_rocket_1
+  - ballistic_rocket_9
+  m_Tag: Ballistic_rokets
+  m_IsVariant: 0

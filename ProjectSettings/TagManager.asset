@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AlienInvironment
+  - PlayerRocket
+  - AlienRocket
+  - Alien
+  - Player Rockets Pool
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Player
+  - PlayerRocketStopper
+  - AlienRocketStopper
+  - FleetBoard
+  - AlienRocket
+  - PlayerRocket
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Rocket
+    uniqueID: 3481841467
+    locked: 0
+  - name: Alien
+    uniqueID: 1452617805
+    locked: 0
+  - name: Player
+    uniqueID: 839346513
+    locked: 0
+  - name: Explosion
+    uniqueID: 1707529537
+    locked: 0

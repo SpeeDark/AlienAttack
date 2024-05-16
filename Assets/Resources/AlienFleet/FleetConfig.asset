@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c5ee4c59a1520e4994d881280a829fd, type: 3}
+  m_Name: FleetConfig
+  m_EditorClassIdentifier: 
+  fleetTemplates:
+  - Alien: {fileID: -1770889364456567633, guid: a815a792a1807474d990e361dda918bb,
+      type: 3}
+    AlienMap:
+      AliensInRow: 8
+      NumberOfRow: 010000000200000003000000
+  - Alien: {fileID: -8028850227414286317, guid: 874dbd6e588e5684594db98d035187ee,
+      type: 3}
+    AlienMap:
+      AliensInRow: 8
+      NumberOfRow: 010000000200000003000000
+  - Alien: {fileID: -4660761973085300250, guid: 5bb57db944f16bf4c9641cd456e321f0,
+      type: 3}
+    AlienMap:
+      AliensInRow: 11
+      NumberOfRow: 010000000300000005000000
+  - Alien: {fileID: 6053363031942059182, guid: 2b124c29bba98914282d64920f3d706f, type: 3}
+    AlienMap:
+      AliensInRow: 13
+      NumberOfRow: 020000000400000006000000
+  - Alien: {fileID: 1227000429255582045, guid: 09eee900ec2a52f4e8798ecedd93b659, type: 3}
+    AlienMap:
+      AliensInRow: 18
+      NumberOfRow: 020000000400000006000000
+  - Alien: {fileID: 4664352244323592253, guid: e57488c96a441544088a9c7d2ddc0aba, type: 3}
+    AlienMap:
+      AliensInRow: 19
+      NumberOfRow: 020000000500000008000000
+  - Alien: {fileID: -4164782958752612020, guid: d3102103f23338146818dc4ae57dfaf9,
+      type: 3}
+    AlienMap:
+      AliensInRow: 18
+      NumberOfRow: 030000000600000009000000

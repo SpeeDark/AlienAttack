@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b76ad2be2aee7ea4aa20cc03017eb815, type: 3}
+  m_Name: AlienConfig 2
+  m_EditorClassIdentifier: 
+  _health: 10
+  alienExplosion: {fileID: -2281346714032221777, guid: 7656d2bffa0f1af4f91e7497f1dadd52,
+    type: 3}
+  alienRocket: {fileID: 4331749579661645245, guid: 68c0073d7ac3a16409c5113648a8e6f4,
+    type: 3}
+  _prizeForKill: 20
+  _attackRatePerMinute: 4.25
+  _attackRateError: 0.33
